@@ -1,5 +1,7 @@
 ## Hello!
-I'm NikiTircky! I like AI, make games and draw digital art sometimes. I write in HTML, CSS, JS, PHP, Python and NodeJS. You can see my links [here](https://nikitrickis-links.glitch.me/)
+I'm NikiTircky! I like AI, make games and draw digital art sometimes. I write in HTML, CSS, JS, PHP, Python and NodeJS. 
+
+### [Website](https://nikitricky.ml)
 
 ### Metrics
 
