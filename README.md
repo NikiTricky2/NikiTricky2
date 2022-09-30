@@ -1,5 +1,18 @@
 ## Hello!
-I'm NikiTircky! I like AI, make games and draw digital art sometimes. I write in HTML, CSS, JS, PHP, Python and NodeJS. 
+
+### Stuff i do
+
+<p>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/scratch.png" height="30"/>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/python.png" height="30"/>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/html.png" height="30"/>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/css.png" height="30"/>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/js.png" height="30"/>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/nodejs.png" height="30"/>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/php.png" height="30"/>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/msql.png" height="30"/>
+<img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/tf.png" height="30"/>
+</p>
 
 ### [Website](https://nikitricky.ml)
 
