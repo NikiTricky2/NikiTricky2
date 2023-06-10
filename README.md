@@ -14,7 +14,7 @@
 <img src="https://github.com/NikiTricky2/NikiTricky2/blob/main/icons/tf.png" height="30"/>
 </p>
 
-### [Website](https://nikitricky.ml)
+### [Website](https://nikitricky2.github.io/)
 
 ### Metrics
 
